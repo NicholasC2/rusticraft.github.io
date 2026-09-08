@@ -1,0 +1,16 @@
+.navbar {
+    background-color: #02f;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.navbar a {
+    color: #fff;
+    text-decoration: none;
+    padding: .75rem;
+}
+
+.navbar a:hover {
+    background-color: #0003;
+}

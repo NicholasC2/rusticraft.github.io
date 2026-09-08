@@ -1,6 +1,0 @@
-tr > * {
-	border-right: 2px solid #ccc;
-}
-tr > *:first-child {
-	border-left: 2px solid #ccc;
-}
