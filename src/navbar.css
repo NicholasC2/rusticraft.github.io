@@ -1,16 +1,57 @@
 .navbar {
     background-color: #02f;
     display: flex;
+    align-items: center;
     flex-direction: row;
     flex-wrap: nowrap;
+    height: 3rem;
 }
 
 .navbar a {
     color: #fff;
     text-decoration: none;
-    padding: .75rem;
+    padding: 1rem;
 }
 
 .navbar a:hover {
     background-color: #0003;
+}
+
+.navbar .logo {
+    height: 2rem;
+}
+
+.spacer {
+    flex: 1;
+}
+
+.dropdown {
+    display: flex;
+    align-items: center;
+    position: relative;
+    padding: 0 1rem;
+    height: 100%;
+    box-sizing: border-box;
+}
+
+.dropdown-trigger {
+    cursor: default;
+}
+
+.dropdown-menu {
+    display: none;
+
+    position: absolute;
+    top: 100%;
+    left: 0;
+
+    background-color: #01a;
+
+    flex-direction: column;
+    text-wrap: nowrap;
+    width: fit-content;
+}
+
+.dropdown:hover .dropdown-menu {
+    display: flex;
 }

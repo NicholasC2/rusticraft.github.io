@@ -1,0 +1,59 @@
+{
+    "$schema": "../season.schema.json",
+    "name": "Season 1",
+    "players": [
+        {
+            "url": "",
+			"name": "Meerpup1",
+			"ign": "Meerpup1",
+			"color": "forestgreen",
+			"videos": [
+				"https://youtu.be/8lXrZ2UJ4RU?si=FDh4siV_WypAyZ62"
+			]
+		},
+		{
+            "url": "",
+			"name": "Blizzard",
+			"ign": "Blizzard",
+			"color": "aqua",
+			"videos": [
+				"https://youtu.be/V4hGqzmbNJQ?si=vzAQUlXeZakonbdL"
+			]
+		},
+		{
+            "url": "",
+			"name": "Splitzy",
+			"ign": "Splitzy",
+			"color": "aquamarine",
+			"videos": [
+				"https://youtu.be/JNTArHhOr4g?si=4CBHipOGdyl2QX2s"
+			]
+		},
+		{
+            "url": "",
+			"name": "Random",
+			"ign": "Random",
+			"color": "darkturquoise",
+			"videos": [
+				"https://youtu.be/XLus9AJ2-jI?si=IaPmbudJJcAvSBa3",
+				"https://youtu.be/WPvvAHm4izA?si=K6xsK5Sp_e_svQMl"
+			]
+		},
+		{
+            "url": "",
+			"name": "Flame",
+			"ign": "Flame",
+			"color": "purple",
+			"videos": [
+				"https://youtu.be/xyONh2jlbgs?si=-HrIbFaSmuxPtkvp"
+			]
+		},
+		{
+            "url": "",
+			"name": "Rain",
+			"ign": "Rain",
+			"color": "fuchsia",
+			"videos": []
+		}
+    ]
+}
