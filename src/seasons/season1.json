@@ -8,7 +8,11 @@
 			"ign": "Meerpup1",
 			"color": "forestgreen",
 			"videos": [
-				"https://youtu.be/8lXrZ2UJ4RU?si=FDh4siV_WypAyZ62"
+				{
+					"url": "https://youtu.be/8lXrZ2UJ4RU",
+					"title": "My YouTube SMP Needs Members",
+					"date": "07-03-2025"
+				}				
 			]
 		},
 		{
@@ -17,7 +21,11 @@
 			"ign": "Blizzard",
 			"color": "aqua",
 			"videos": [
-				"https://youtu.be/V4hGqzmbNJQ?si=vzAQUlXeZakonbdL"
+				{
+					"url": "https://youtu.be/V4hGqzmbNJQ",
+					"title": "test",
+					"date": "01-01-2026"
+				}
 			]
 		},
 		{

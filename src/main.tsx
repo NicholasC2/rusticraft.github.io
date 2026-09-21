@@ -48,10 +48,9 @@ function Season() {
 	for (const player of data.players) {
 		for (const video of player.videos) {
 			videos.push({
-				title: video.title,
+				uploader: player.name,
+				...video,
 				date: new Date(Date.parse(video.date)),
-				url: video,
-				uploader: player.name
 			})
 		}
 	}
